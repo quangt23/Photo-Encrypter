@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Photo Encrypter 🖼️
 Created by: Quang Tran
 

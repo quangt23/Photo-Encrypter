@@ -23,13 +23,13 @@ There are no known issues at the moment.
 ### Build 🛠️
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PhotoMagic.git
-   cd PhotoMagic
+   git clone https://github.com/quangt23/Photo-Encrypter.git
+   cd Photo-Encrypter
    make
    ```
 ### Run 🚀
    ```bash
-   ./PhotoMagic < input image > < output image > < 16 size bitstring >
+   ./Encrypt < input image > < output image > < 16 size bitstring >
    example:
-   ./PhotoMagic input-file.png output-file.png 1011011000110110
+   ./Encrypt input-file.png output-file.png 1011011000110110
    ```
